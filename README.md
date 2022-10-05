@@ -1,6 +1,6 @@
 # HealthcheckAPI
 
-Track the heralth of your API Calls
+Track the health of your API Calls
 
 ## Built using
 
