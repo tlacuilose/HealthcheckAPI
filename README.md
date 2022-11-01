@@ -18,5 +18,11 @@ The following diagram outlines the business relevant events.
 
 ![Big Picture of HealcheckAPI](./diagramimg-bigpicture-healthcheckAPI.png)
 
+### Data diagrams
+
+Here are the data structures used for this project.
+
+![Class Diagram of HealthcheckAPI](./classes-healthcheck.png)
+
 
 
