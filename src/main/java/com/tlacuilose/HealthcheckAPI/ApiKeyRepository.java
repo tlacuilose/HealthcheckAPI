@@ -4,7 +4,8 @@ import java.util.Optional;
 
 import org.springframework.data.repository.CrudRepository;
 
-public interface UserRepository extends CrudRepository<User, Integer> {
+public interface ApiKeyRepository extends CrudRepository<ApiKey, Integer> {
 
-    Optional<User> findByEmail(String email);
+    Optional<ApiKey> findByKey(String key);
+
 }
